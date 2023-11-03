@@ -30,4 +30,4 @@ The command above will generate a new model on `./models`
 ## Run migrations
 `npx sequelize-cli db:migrate`
 
-That commando will create the database and the tables in models
+That command will create the database and the tables in `./models`
